@@ -1,0 +1,3 @@
+# vuex-counter
+
+In this app I used mutations, getters, actions and other VueX stuff...
